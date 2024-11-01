@@ -1,4 +1,4 @@
-# Sub-Section with content 
+# Подраздел с содержимым
 
-This is an example page for demonstation how sub-sections can be organized. 
-More details about subsections inclusion can be found [here](https://diplodoc.com/docs/en/project/toc)
+Это страница-пример для демонстрации того, как могут быть организованы подразделы.
+Более подробную информацию о включении подразделов можно найти [здесь](https://diplodoc.com/docs/en/project/toc)
