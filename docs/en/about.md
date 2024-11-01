@@ -1,15 +1,15 @@
-# Basic "About page" 
+# Основная страница "О проекте" 
 
-This is an example for basic documenation project.
-It contains simple structure with couple of pages (this page, another page) and nested sub-section. 
+Это пример проекта "Основная документация".
+Он содержит простую структуру с парой страниц (эта страница, другая страница) и вложенным подразделом. 
 
-Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
+Diplodoc предоставляет вам уникальное название, с помощью которого можно получить доступ к этому проекту. https://diplodoc.com например 
 "https://common---gh-aje0e4eg9hffg001r5e5.viewer.diplodoc.com/en/" 
 
-If you would like to extend your project - please refer to [YFM Project Organization guide](https://diplodoc.com/docs/en/project/)
+Если вы хотите расширить свой проект, пожалуйста, обратитесь к [Руководству по организации проекта YFM](https://diplodoc.com/docs/en/project/)
 
-All changes for this project can be done within you public github repository called "diplodoc-example/docs". 
-To make changes and apply them: 
+Все изменения для этого проекта можно внести в вашем публичном репозитории на github под названием "diplodoc-example/docs". 
+Чтобы внести изменения и применить их:
 
 - go to your repo under "diplodoc-example/docs" 
 - make changes for project structure or content
@@ -19,5 +19,5 @@ To make changes and apply them:
 - done, updates should be available for everyone. 
 
 
-In case if you would like to make proxy from your own domain to this Documentation - please [Contact Us](https://diplodoc.com/#contact) - we will support you accordingly till appropriate documentation creation. 
+В случае, если вы хотите установить прокси-сервер со своего собственного домена для этой документации - пожалуйста, [Свяжитесь с нами](https://diplodoc.com/#contact) - мы окажем вам соответствующую поддержку до создания соответствующей документации.
 

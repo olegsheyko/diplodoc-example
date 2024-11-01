@@ -1,9 +1,8 @@
-# Simple documentation project with YFM
+# Простой проект документации с помощью YFM
 
 
-## Project Structure
-Basic project contains few config files and pages with actual content. Both config files and markdown linked into the following structure:
-
+## Структура проекта
+Базовый проект содержит несколько конфигурационных файлов и страниц с фактическим содержимым. Файлы конфигурации и markdown объединены в следующую структуру:
 
 ```
 input-folder

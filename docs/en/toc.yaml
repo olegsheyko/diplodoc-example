@@ -1,13 +1,13 @@
 title: Documentation Project Template
 href: index.yaml
 items: 
-  - name: About
+  - name: О странице
     href: about.md
-  - name: Additional page 
+  - name: Доп. страница
     href: page.md
-  - name: Another page 
+  - name: Другая страница 
     href: anotherpage.md
-  - name: Sub-Section 
+  - name: Под-секция
     include:
       path: sub-section/toc.yaml
       mode: link
