@@ -11,3 +11,7 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
+  - name: Быстрый старт
+    include:
+      path: quick-start/toc.yaml
+      mode: link

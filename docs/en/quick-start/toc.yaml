@@ -1,0 +1,5 @@
+title: Sub-section Example TOC
+href: index.yaml
+items:
+  - name: Страница содержимого в подразделе
+    href: content.md
